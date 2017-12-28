@@ -1,5 +1,5 @@
 # Change these
-server '92.53.91.97', port: 3000, roles: [:web, :app, :db], primary: true
+
 set :repo_url,        'git@github.com:MoRain666/pushkin-contest-bot.git'
 set :application,     'pushkin-contest-bot'
 set :user,            'deployer'
